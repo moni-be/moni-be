@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moni-be
 - 👀 I’m interested in coding the "client side"/Frontend of web sites and applications
-- 🌱 I’m currently learning how to code in ReactJs, NodeJs, SASS...
-- 💞️ I’m looking to collaborate on an extraordinary company !
+- 🌱 I’m currently learning how to code in ReactJs, NodeJs, SASS, display applis on cloud platforms & AI...
+- 💞️ I’m looking to collaborate as webmaster or frontend developer on an extraordinary company!
 - 📫 How to reach me ... (comming)
 
 <!---
